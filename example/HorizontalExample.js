@@ -24,8 +24,8 @@ export default class HorizontalExample extends Component {
     return(
       <Swiper
         style={styles.wrapper}
-        defaultPosition={0}
-        horizontal={false}
+        defaultIndex={0}
+        horizontal={true}
         isLoop={true}
         onChangeStart={(index)=>{
           console.log('onChangeStart',index)
@@ -58,8 +58,6 @@ const styles = StyleSheet.create({
     marginTop: 200,
     width: 200,
     height: 200,
-    borderBottomColor: '#000',
-    borderBottomWidth: 2,
     alignSelf: 'center',
     overflow: 'hidden',
   },

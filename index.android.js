@@ -10,7 +10,8 @@ import {
 } from 'react-native';
 
 
-import Demo from './example/HorizontalExample';
+// import Demo from './example/HorizontalExample';
+import Demo from './example/VerticalExample';
 
 
 AppRegistry.registerComponent('swiper', () => Demo);
