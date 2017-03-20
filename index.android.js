@@ -15,4 +15,4 @@ import App from  './app/index';
 // import App from  './app/StickHeader';
 
 
-AppRegistry.registerComponent('Wuba', () => App);
+AppRegistry.registerComponent('Swiper', () => App);

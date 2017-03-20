@@ -14,4 +14,4 @@ import {
 
 import App from './app/index';
 
-AppRegistry.registerComponent('Wuba', () => App);
+AppRegistry.registerComponent('Swiper', () => App);
