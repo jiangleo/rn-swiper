@@ -13,7 +13,7 @@ import Swiper from './<yourLib>/RN-Swiper'
 
 ## 简单 demo
 
-```jsx harmony
+```js
 
 class HorizontalExample extends Component {
   render(){
