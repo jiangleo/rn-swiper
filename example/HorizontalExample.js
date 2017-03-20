@@ -15,7 +15,7 @@ import {
   Animated,
 } from 'react-native';
 
-import Swiper from '../../lib/swiper';
+import Swiper from '../lib';
 
 
 
